@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="vdrsdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/vdrsdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

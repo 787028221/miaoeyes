@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SysCtrlProxy">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/SysCtrlProxy.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/app/libs/SysCtrlProxy.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Android\\CarEyes\\CarEyes3\\app\\build\\intermediates\\res\\merged\\debug\\raw\\camera_over.mp3",
+        "source": "D:\\Android\\CarEyes\\CarEyes3\\app\\src\\main\\res\\raw\\camera_over.mp3"
+    },
+    {
+        "merged": "D:\\Android\\CarEyes\\CarEyes3\\app\\build\\intermediates\\res\\merged\\debug\\raw\\tf_none.mp3",
+        "source": "D:\\Android\\CarEyes\\CarEyes3\\app\\src\\main\\res\\raw\\tf_none.mp3"
+    },
+    {
+        "merged": "D:\\Android\\CarEyes\\CarEyes3\\app\\build\\intermediates\\res\\merged\\debug\\raw\\shot_over.mp3",
+        "source": "D:\\Android\\CarEyes\\CarEyes3\\app\\src\\main\\res\\raw\\shot_over.mp3"
+    },
+    {
+        "merged": "D:\\Android\\CarEyes\\CarEyes3\\app\\build\\intermediates\\res\\merged\\debug\\raw\\car_start.mp3",
+        "source": "D:\\Android\\CarEyes\\CarEyes3\\app\\src\\main\\res\\raw\\car_start.mp3"
+    },
+    {
+        "merged": "D:\\Android\\CarEyes\\CarEyes3\\app\\build\\intermediates\\res\\merged\\debug\\raw\\car_stop.mp3",
+        "source": "D:\\Android\\CarEyes\\CarEyes3\\app\\src\\main\\res\\raw\\car_stop.mp3"
+    },
+    {
+        "merged": "D:\\Android\\CarEyes\\CarEyes3\\app\\build\\intermediates\\res\\merged\\debug\\raw\\shot_start.mp3",
+        "source": "D:\\Android\\CarEyes\\CarEyes3\\app\\src\\main\\res\\raw\\shot_start.mp3"
+    }
+]

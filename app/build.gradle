@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.cpsdna.careyes"
+        minSdkVersion 21
+        targetSdkVersion 22
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:appcompat-v7:23.3.0'
+    compile files('libs/AMap_Location_v2.3.0_20160112.jar')
+    compile files('libs/SysCtrlProxy.jar')
+    compile files('libs/vdrsdk.jar')
+    compile files('libs/xcoding-commons-4.0.0.jar')
+}
